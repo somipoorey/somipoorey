@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @somipoorey
 - 👀 I’m interested in Learning new things...
 - 🌱 I’m currently learning MongoDB with Python...
--
+
 
 <!---
 somipoorey/somipoorey is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
